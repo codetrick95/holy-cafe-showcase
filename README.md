@@ -40,7 +40,11 @@ O Holy Café Management é uma aplicação web responsiva (Mobile-First) que atu
 ---
 
 ## 📸 Demonstração do Produto
-*(Dica: Adicione aqui fotos do sistema rodando em um tablet ou celular no balcão, ou um vídeo mostrando a geração do cupom de impressão e o envio do WhatsApp)*
+*
+
+https://github.com/user-attachments/assets/5a1ee30a-c14a-4274-9d3d-dda7d47a5f3e
+
+*
 
 ---
 **Desenvolvido por:** [Patrick Fiuza Alves](https://github.com/codetrick95)
